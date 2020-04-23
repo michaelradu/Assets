@@ -3,20 +3,17 @@ Collection of assets stored for reuse in other projects.
 
 <h4 align="center">
 
-           ,ggg,        ,gg,         ,gg,      ,ggggggg,  ,ggggggggggggggg  ,gg,   
-          dP""8I       i8""8i       i8""8i   ,dP""""""Y8bdP""""""88""""""" i8""8i  
-         dP   88       `8,,8'       `8,,8'   d8'    a  Y8Yb,_    88        `8,,8'  
-        dP    88        `88'         `88'    88     "Y8P' `""    88         `88'   
-       ,8'    88        dP"8,        dP"8,   `8baaaa             88         dP"8,  
-       d88888888       dP' `8a      dP' `8a ,d8P""""             88        dP' `8a 
- __   ,8"     88      dP'   `Yb    dP'   `Ybd8"                  88       dP'   `Yb
-dP"  ,8P      Y8  _ ,dP'     I8_ ,dP'     I8Y8,            gg,   88   _ ,dP'     I8
-Yb,_,dP       `8b,"888,,____,dP"888,,____,dP`Yba,,_____,    "Yb,,8P   "888,,____,dP
- "Y8P"         `Y8a8P"Y88888P" a8P"Y88888P"   `"Y8888888      "Y8P'   a8P"Y88888P" 
-                                                                                   
-                                                                                   
-                                                                                   
-                                                                                   
+       d8888  .d8888b.   .d8888b.  8888888888 88888888888 .d8888b.  
+      d88888 d88P  Y88b d88P  Y88b 888            888    d88P  Y88b 
+     d88P888 Y88b.      Y88b.      888            888    Y88b.      
+    d88P 888  "Y888b.    "Y888b.   8888888        888     "Y888b.   
+   d88P  888     "Y88b.     "Y88b. 888            888        "Y88b. 
+  d88P   888       "888       "888 888            888          "888 
+ d8888888888 Y88b  d88P Y88b  d88P 888            888    Y88b  d88P 
+d88P     888  "Y8888P"   "Y8888P"  8888888888     888     "Y8888P"  
+                                                                    
+                                                                    
+                                                                                                                                           
                                                                                    
                                                                                                                                                      
 </h4>
